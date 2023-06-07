@@ -1,16 +1,18 @@
-### Hi there 👋
+![](https://firebasestorage.googleapis.com/v0/b/celicor.appspot.com/o/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png?alt=media&token=28f30e59-24a5-4cee-9139-469597b72426&_gl=1*1ddtttb*_ga*NzA0MzU4MDA0LjE2ODM3NjIyOTI.*_ga_CW55HF8NVT*MTY4NjEwODQ5Ny41LjEuMTY4NjEwODUwMS4wLjAuMA..)
+<h1 align="center">Hi 👋, I'm Santiago Arraez</h1>
+<h4 align="center">Venezuelan 🇻🇪 based web developer</h4>
 
-<!--
-**Santiagoarraez/Santiagoarraez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💼 Web developer with excellent analytical and critical thinking skills, quick learner, and good listening and teamwork skills.
 
-Here are some ideas to get you started:
+- 📜 Certified by 4Geeks Academy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍💻 Management of technologies such as HTML, CSS, Bootstrap, Javascript, React JS, Python, Flask, Postgresql, and Jest.
+
+- 🔭 I’m currently working on improve my aforementioned skills
+
+- 📫 How to reach me **santiagoarraez@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/santiago-arraez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago arraez" height="30" width="40" /></a>
+</p>
